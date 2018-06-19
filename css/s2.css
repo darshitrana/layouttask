@@ -1,0 +1,23 @@
+html,body
+{
+    margin:0;
+    width:100%;
+}
+.red
+{
+    height: 200px;
+    width: 200px;
+    border:2px solid black;
+}
+.yellow
+{
+    height: 200px;
+    width: 200px;
+    border:2px solid black;
+}
+.blue
+{
+    height: 200px;
+    width: 200px;
+    border:2px solid black;
+}
